@@ -1,3 +1,4 @@
+from pathlib import Path
 import streamlit as st
 import altair as alt
 import json
@@ -135,7 +136,8 @@ def main():
 
 
 def info():
-    pass
+    with open(Path(__file__).parent / "Readme.md") as fp:
+        st.write(fp.read())
 
 
 def pull_data():
