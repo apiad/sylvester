@@ -1,0 +1,5 @@
+altair==4.1.0
+tweepy==3.9.0
+pandas==1.1.2
+pydantic==1.6.1
+streamlit==0.67.1
