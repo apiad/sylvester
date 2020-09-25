@@ -1,7 +1,6 @@
 # Sylvester
 
-> ### [🔗 sylvester-demo.herokuapp.com](https://sylvester-demo.herokuapp.com)
-> ### [🖥️ apiad/sylvester](https://github.com/apiad/sylvester)
+> ### A streamlit-based Twitter analysis tool for hackers
 
 This is a very simple project to analyze your Twitter data. 
 There is no sign-up, user management, etc.
@@ -10,6 +9,8 @@ Nothing is stored on the server.
 For this reason, you will need to [create a Twitter developer account](https://developer.twitter.com), create an application, and upload your own credentials.
 
 ## Deploying the application locally
+
+> ### [🖥️ apiad/sylvester](https://github.com/apiad/sylvester)
 
 This is a simple [streamlit](https://streamlit.io) app, so you know the drill.
 
@@ -27,6 +28,8 @@ $ streamlit run app.py
 ```
 
 ## Using the application
+
+> ### [🔗 sylvester-demo.herokuapp.com](https://sylvester-demo.herokuapp.com)
 
 You will need to save your Twitter developer credentials in a `.json` file with this structure:
 
