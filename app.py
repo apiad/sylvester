@@ -9,7 +9,7 @@ import base64
 
 from pydantic import BaseModel
 
-
+st.beta_set_page_config(page_title="Sylvester")
 st.set_option("deprecation.showfileUploaderEncoding", False)
 
 
