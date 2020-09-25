@@ -44,7 +44,7 @@ You will need to save your Twitter developer credentials in a `.json` file with 
 
 On the application sidebar, select `🔽 Pull Data`. Upload your JSON credentials files and you will be able to download all your messages. Store this JSON file somewhere, it's your data!
 
-Once your data is down, selected `📊 Analyze Data` and upload your JSON file again. This application stores NOTHING in the server filesystem, not even temporarily, so it doesn't matter if you just downloaded your data, it's already been deleted.
+Once your data is down, select `📊 Analyze Data` and upload your JSON file again. This application stores NOTHING in the server filesystem, not even temporarily, so it doesn't matter if you just downloaded your data, it's already been deleted.
 
 ## Collaboration
 
